@@ -3,7 +3,6 @@ import java.io.*;
 import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
-
 public class Main {
 
 	private static ArrayList<Aluno> ListadeAlunos = new ArrayList<Aluno>();
