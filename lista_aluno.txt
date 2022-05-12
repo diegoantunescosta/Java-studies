@@ -1,8 +1,0 @@
-------- LISTA DE ALUNOS ------
-
-Nome = diego
-RA = 
-3232
-Curso = 
-bigdata
-------- FIM ------
