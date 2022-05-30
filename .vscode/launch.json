@@ -10,6 +10,17 @@
             "projectName": "fresquinha-java",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-FresquinhaMysqlApplication<api_fresquinha>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.api_fresquinha.FresquinhaMysqlApplication",
+            "projectName": "api_fresquinha",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
