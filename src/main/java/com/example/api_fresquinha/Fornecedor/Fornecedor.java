@@ -14,8 +14,6 @@ public class Fornecedor {
 
     private String name;
 
-    private String email;
-
     private String phone;
 
     public int getId() {
@@ -32,14 +30,6 @@ public class Fornecedor {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
     }
 
     public String getPhone() {
